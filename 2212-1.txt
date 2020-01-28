@@ -1,0 +1,7 @@
+Lab 0: Test upload (pass/fail grade)
+Upload a pdf file with some sagemath examples.
+due 1/28/2020 11:59 pm
+
+Lab 1: SHM
+Measure the acceleration due to gravity with uncertainty using a pendulum.
+due 2/3/2020 5:30 pm
