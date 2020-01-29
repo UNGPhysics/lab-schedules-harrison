@@ -1,3 +1,6 @@
 Lab 0: Test upload (pass/fail grade)
 Upload a pdf file with some sagemath examples.
 due 1/28/2020 11:59 pm
+
+Lab 1: Projectile Motion lab from lab manual (https://github.com/naharrison/physics1-2_lab-manual/releases/download/v0.0.10/lab-manual.pdf)
+due 2/5/2020 1:00 pm
