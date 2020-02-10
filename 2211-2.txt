@@ -4,3 +4,6 @@ due 1/28/2020 11:59 pm
 
 Lab 1: Projectile Motion lab from lab manual (https://github.com/naharrison/physics1-2_lab-manual/releases/download/v0.0.10/lab-manual.pdf)
 due 2/5/2020 10:00 am
+
+Lab 2: Forces (lab manual #4)
+due 2/17/2020 10:00 am
