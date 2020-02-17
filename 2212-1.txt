@@ -10,3 +10,6 @@ Lab 2: Doppler Effect (pass/fail grade)
 Use SageMath to draw the wave pattern produced by a moving source.
 Draw at least 20 waves.
 due 2/7/2020 11:59 pm
+
+Lab 3: Electric potential and Fields (#14 in lab manual - https://github.com/naharrison/physics1-2_lab-manual/releases/download/v0.0.10/lab-manual.pdf)
+due 2/24/2020 5:30 pm
