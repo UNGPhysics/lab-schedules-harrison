@@ -13,3 +13,6 @@ due 2/7/2020 11:59 pm
 
 Lab 3: Electric potential and Fields (#14 in lab manual - https://github.com/naharrison/physics1-2_lab-manual/releases/download/v0.0.10/lab-manual.pdf)
 due 2/24/2020 5:30 pm
+
+Lab 4: Electric Flux (#15 part 1 in lab manual)
+due 3/16/2020 5:30 pm
