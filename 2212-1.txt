@@ -15,4 +15,4 @@ Lab 3: Electric potential and Fields (#14 in lab manual - https://github.com/nah
 due 2/24/2020 5:30 pm
 
 Lab 4: Electric Flux (#15 part 1 in lab manual)
-due 3/16/2020 5:30 pm
+due 3/16/2020 5:30 pm **Extended to 3/30**
